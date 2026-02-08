@@ -12,10 +12,14 @@ public class problem1{
 
        System.out.println(count);
 
+       //Time complexity: O(log10 N)
+
 
        //optimal path 
 
        int result = (int) (Math.log10(number1) + 1);
        System.out.println(result);
+
+       // Time complexity: O(1)
     }
 }
