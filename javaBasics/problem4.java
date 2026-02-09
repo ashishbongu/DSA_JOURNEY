@@ -24,7 +24,9 @@ public class problem4{
 
         System.out.println(min);
 
+        //optimal - euclidian method:
 
+        
 
     }
 }
