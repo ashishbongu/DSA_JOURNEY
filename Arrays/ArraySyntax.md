@@ -4,10 +4,10 @@
 
 
 ```
-int[] arr = new int[10];
+1. int[] arr = new int[10];
 
-int[] arr = {10, 20, 30};
+2. int[] arr = {10, 20, 30};
 
-int[] arr;
-arr= {10,12,34};
+3. int[] arr;
+   arr= {10,12,34};
 
