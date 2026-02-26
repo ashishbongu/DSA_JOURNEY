@@ -11,8 +11,6 @@ String name = "ashish";
 (If "ashish" already exists → reuse it || 
 If not → create ONE object in the String Pool)
 
-Memory:
-
 #### Stack: name  ----> Heap (String Pool):"ashish"
 
 ✔ Only one object created
@@ -23,12 +21,7 @@ Memory:
 String name = new String("ashish");
 ```
 
-
-JVM does TWO things:
-
 Creates a NEW String object in normal heap memory
-
-Memory:
 
 #### Stack: name ----> Heap: [Heap Object]  "ashish"   ← new object
 
