@@ -2,7 +2,6 @@
 
 ```
 String name = "ashish";
-
 ```
 What happens in memory
 String name = "ashish";
