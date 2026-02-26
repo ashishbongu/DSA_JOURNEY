@@ -1,3 +1,8 @@
 {
     "java.project.outputPath": "bin",
+    "java.project.sourcePaths": [
+        "javaBasics",
+        "0.JavaBasics",
+        "2.Strings"
+    ],
 }
