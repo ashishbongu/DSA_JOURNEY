@@ -13,30 +13,23 @@ If not → create ONE object in the String Pool)
 
 Memory:
 
-Stack:
-name  ----> Heap (String Pool):
-"ashish"
+#### Stack: name  ----> Heap (String Pool):"ashish"
 
-✔ Only one object created (in most cases)
+✔ Only one object created
 ✔ Memory efficient
 ✔ Recommended way
 
-✅ 2️⃣ String name = new String("ashish");
+```
 String name = new String("ashish");
+```
+
 
 JVM does TWO things:
-
-Creates "ashish" in String Pool (if not already present)
 
 Creates a NEW String object in normal heap memory
 
 Memory:
 
-Stack:
-name ---->
+#### Stack: name ----> Heap: [Heap Object]  "ashish"   ← new object
 
-Heap:
-[String Pool]  "ashish"
-[Heap Object]  "ashish"   ← new object
-
-❗ Now you have two separate objects.
+## ❗ Now you have two separate objects. 
