@@ -31,6 +31,21 @@ public class Sample1 {
         }
 
 
+        //copying an array
+        array2=array1.clone();
+
+        //Sorting arrays
+        Arrays.sort(array); -----> java.util.Arrays 
+
+        //Arrays.equals(arr1,arr2); checks if two arrays have (same elements / same order)
+
+        //Arrays.copyOf(oldArr,5); creates a new array of size (5) and copy elements
+
+        //Arrays.fill(arr,2); fill all values with 2
+
+
+
+
     }
 }
 
