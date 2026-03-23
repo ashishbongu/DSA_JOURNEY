@@ -31,7 +31,7 @@ public class Sample1 {
         }
 
 
-        <h3>
+
         //copying an array
         array2=array1.clone();
 
@@ -43,7 +43,7 @@ public class Sample1 {
         //Arrays.copyOf(oldArr,5); creates a new array of size (5) and copy elements
 
         //Arrays.fill(arr,2); fill all values with 2
-        </h3>
+    
 
 
 
@@ -55,3 +55,7 @@ public class Sample1 {
 ```
 Stack        Heap
 arr -------> [10,20,30]
+
+```
+
+![alt text](image.png)
