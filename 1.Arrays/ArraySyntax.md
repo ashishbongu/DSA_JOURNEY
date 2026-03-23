@@ -56,6 +56,5 @@ public class Sample1 {
 Stack        Heap
 arr -------> [10,20,30]
 
-```
 
 ![alt text](image.png)
