@@ -30,6 +30,8 @@ Creates a NEW String object in normal heap memory
 ![Alt text](https://journaldev.nyc3.cdn.digitaloceanspaces.com/2012/11/String-Pool-Java1-450x249.png)
 
 
+## StringBuilder in Java - (mutable!!) 
+
 ```
 public class StringBuilderDemo {
     public static void main(String[] args) {
