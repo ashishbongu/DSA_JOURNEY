@@ -31,7 +31,6 @@ Creates a NEW String object in normal heap memory
 
 
 ## StringBuilder in Java - (mutable!!) 
-
 ```
 public class StringBuilderDemo {
     public static void main(String[] args) {
