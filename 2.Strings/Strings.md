@@ -11,7 +11,7 @@ String name = "ashish";
 (If "ashish" already exists → reuse it || 
 If not → create ONE object in the String Pool)
 
-#### Stack: name  ----> Heap (String Pool):"ashish"
+#### Stack: name  ----> Heap (String Pool):"ashish"p0
 
 ✔ Only one object created
 ✔ Memory efficient
