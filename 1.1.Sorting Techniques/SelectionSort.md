@@ -1,4 +1,4 @@
-#SELECTION SORT
+# SELECTION SORT
 
 ```
 class Solution {
