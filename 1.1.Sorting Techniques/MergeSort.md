@@ -1,3 +1,3 @@
 # MERGE SORT
 
-# approach
+# approach in java
